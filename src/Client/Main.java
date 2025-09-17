@@ -15,8 +15,8 @@ public class Main {
         System.out.println("Opções:");
         System.out.println("1 - Digitar texto");
         System.out.println("2 - Apagar caracteres");
-        System.out.println("z - Desfazer (Undo)");
-        System.out.println("y - Refazer (Redo)");
+        System.out.println("z - Undo");
+        System.out.println("y - Redo");
         System.out.println("s - Sair");
         System.out.println("---------------------------------");
 
